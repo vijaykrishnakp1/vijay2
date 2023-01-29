@@ -10,7 +10,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
 <link href="<c:url value="/css/style.css" />">
 <script type="text/javascript" href="<c:url value="/resources/js/script.js" />"></script>
-    <title>Hello, world!</title>
+    <title>Vijay,Rakesh search!</title>
   </head>
   <body>
 
@@ -19,7 +19,7 @@
 <div class="card mx-auto mt-5 bg-secondary" style="width: 50%;">
 <div class="card-body py-5">
 <div class="form-group text-center">
-<h3 class="text-white" style="text-transform: uppercase;"> my search</h3>
+<h3 class="text-white" style="text-transform: uppercase;">Vijay,Rakrsh search engine</h3>
 <form action="search" class="mt-3">
 
 <input type="text" name="queryBox" placeholder="enter your search text" class="form-controll">
